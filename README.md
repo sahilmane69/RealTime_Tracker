@@ -22,11 +22,7 @@ node app.js
 
 ---
 
-Let me know if you'd like to:
-
-- Add a **preview GIF** or screenshot link
-- Make a separate `DEMO.md` with setup video / deploy guide
-- Plug in your live link after deploying
+Let me know if you'd like to
 
 This is clean, professional, and shows your real skills without overloading.
 
